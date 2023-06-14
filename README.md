@@ -1,2 +1,9 @@
 # nextjs-course
-udemy nextjs-course
+
+### /about
+
+- udemy nextjs-course
+
+### /blog
+
+- Next js Blog Toy Project
